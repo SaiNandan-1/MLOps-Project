@@ -1,0 +1,5 @@
+outs:
+- md5: 0c7243b556b886f6e86fa12472bf62b5
+  size: 16655822
+  hash: md5
+  path: reuters_bilstm.keras
