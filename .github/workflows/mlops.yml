@@ -2,7 +2,7 @@ name: MLOPS Project CI/CD Pipeline
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   build-and-deploy:
